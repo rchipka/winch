@@ -1,0 +1,29 @@
+{
+  "name": "winch",
+  "version": "0.0.1",
+  "description": "Build chainable, composable APIs in Javascript",
+  "keywords": [
+    "chain",
+    "api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rchipka/winch.git"
+  },
+  "author": {
+    "name": "rchipka",
+    "email": "chipka01@email.franklin.edu"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "license": "MIT",
+  "main": "index",
+  "readmeFilename": "Readme.md",
+  "bugs": {
+    "url": "https://github.com/rchipka/winch/issues"
+  }
+}
